@@ -1,0 +1,32 @@
+[
+	{
+		"name":"Aindrila Haldar",
+		"type":"Teacher",
+		"email":"ahaldar@art.com",
+		"classes":[601,608,618]
+	},
+	{
+		"name":"Isuk J",
+		"type":"Designer",
+		"email":"IJ@art.com",
+		"classes":[601,608,617,618]
+	},
+	{
+		"name":"Amy Poehler",
+		"type":"Comedian",
+		"email":"ap@art.com",
+		"classes":[249,250,369]
+	},
+	{
+		"name":"Anna Hathaway",
+		"type":"actor",
+		"email":"ah@art.com",
+		"classes":[250,601,608,618]
+	},
+	{
+		"name":"Fiona B",
+		"type":"Engineer",
+		"email":"fb@art.com",
+		"classes":[249,608,617]
+	}
+]
